@@ -40,6 +40,7 @@ To set up the project, follow the steps below to install the required Python dep
 
 ```bash
 python -m venv env  # Create virtual environment
+```
 
 ## Install Dependencies
 
