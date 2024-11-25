@@ -69,5 +69,5 @@ Next, you need to install the required Python dependencies. It is recommended to
 ## Running the Semantic Search API
 To run the sText Search System, execute the following command:
 ```bash
-streamlit run annual_report_search_kesieve.py
+streamlit run app.py
 ```
