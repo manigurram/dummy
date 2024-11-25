@@ -12,7 +12,6 @@ The dataset consists of:
 
 ---
 
-
 ## Pipeline Overview
 
 ### **Training Pipeline**
@@ -31,6 +30,16 @@ The dataset consists of:
 4. **Index Search**: Use FAISS to retrieve the top 5 nearest passage IDs.
 5. **Retrieve Results**: Fetch and display the corresponding text passages.
 
+---
+
+## Install Dependencies
+
+To set up the project, follow the steps below to install the required Python dependencies. It is recommended to create a virtual environment for isolation.
+
+### 1. Create a virtual environment:
+
+```bash
+python -m venv env  # Create virtual environment
 
 ## Install Dependencies
 
