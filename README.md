@@ -27,7 +27,7 @@ git clone https://huggingface.co/sentence-transformers/paraphrase-multilingual-m
 1. **Download the Data**: Collect CRISIL text data in PDF format.
 2. **Data Extraction**: Extract text from PDFs using [LangChain](https://github.com/hwchase17/langchain).
 3. **Data Preprocessing**: Clean and preprocess the extracted text for embedding generation.
-4. **Generate Embeddings**: Use [paraphrase-multilingual-mpnet-base-v2] for text embeddings.
+4. **Generate Embeddings**: Use [paraphrase-multilingual-mpnet-base-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2) for text embeddings.
 5. **Build KE-Sieve Model**: Create Orientation Vectors (OVs) and Packbits.
 6. **Build the Index**: Use FAISS Binary Flat Index for indexing OVs.
 7. **Save the Model**: Persist the model and index for future use.
