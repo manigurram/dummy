@@ -34,16 +34,6 @@ The dataset consists of:
 
 ## Install Dependencies
 
-To set up the project, follow the steps below to install the required Python dependencies. It is recommended to create a virtual environment for isolation.
-
-### 1. Create a virtual environment:
-
-```bash
-python -m venv env  # Create virtual environment
-```
-
-## Install Dependencies
-
 Next, you need to install the required Python dependencies. It is recommended to create a virtual environment for this.
 
 - Python 3.8 or higher
